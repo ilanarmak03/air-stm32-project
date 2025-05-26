@@ -13,7 +13,6 @@ This project uses an STM32 microcontroller to read environmental data from an **
 ## 🧰 Hardware Requirements
 
 - ✅ STM32F3 / STM32 Nucleo board  
-- ✅ AHT21 sensor module (I2C)
 - ✅ ENS160+AHT21 air quality sensor module (I2C)
 
 ## 🔧 Software Tools
