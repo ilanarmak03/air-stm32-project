@@ -65,14 +65,17 @@ README.md → You're here!
 For more technical details about the sensors and microcontroller used in this project:
 
 AHT21 – Temperature & Humidity Sensor
+
 [📄 AHT21 Datasheet (PDF)](https://github.com/user-attachments/files/20439829/AHT21.datasheet.ASAIR.pdf)
 
 
 ENS160 – Digital Air Quality Sensor
+
 [📄 ENS160 Datasheet (PDF)](https://github.com/user-attachments/files/20439834/ENS160.datasheet.ScioSense.pdf)
 
 
 NUCLEO-F302R8 – ARM Cortex-M4 MCU
+
 [📄 STM32F3 Reference Manual (PDF)](https://os.mbed.com/platforms/ST-Nucleo-F302R8/)
 
 These documents include sensor I²C protocols, register maps, electrical characteristics, and timing diagrams, which are essential for low-level implementation and debugging.
